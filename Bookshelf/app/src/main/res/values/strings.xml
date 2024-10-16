@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="error_text">Ocurrio un error</string>
+    <string name="error_button">Actualizar</string>
+    <string name="description">DESCRIPCIÓN</string>
+    <string name="author">AUTOR</string>
+    <string name="publishedDate">FECHA DE PUBLICACIÓN</string>
+</resources>

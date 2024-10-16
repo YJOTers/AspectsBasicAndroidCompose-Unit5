@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="short_1">8dp</dimen>
+    <dimen name="short_2">16dp</dimen>
+    <dimen name="medium_1">150dp</dimen>
+    <dimen name="medium_2">200dp</dimen>
+</resources>
